@@ -1,0 +1,22 @@
+{
+    "products" : [
+         {
+            "id" : "123",
+            "name" : "orange",
+            "price" : "2",
+            "url" : "https://cdn.pixabay.com/photo/2016/10/07/13/21/tangerines-1721566_1280.jpg"
+        },
+        {
+            "id" : "124",
+            "name" : "banana",
+            "price" : "5",
+            "url" : "https://cdn.pixabay.com/photo/2016/09/03/20/48/bananas-1642706_960_720.jpg"
+        },
+        {
+            "id" : "125",
+            "name" : "grapes",
+            "price" : "12",
+            "url" : "https://cdn.pixabay.com/photo/2017/09/04/22/16/grapes-2715711_1280.jpg"
+        }
+    ]
+}
